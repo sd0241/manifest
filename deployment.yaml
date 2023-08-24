@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: sd0241/test:3
+        image: sd0241/test:5
         ports:
         - containerPort: 8080
